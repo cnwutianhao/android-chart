@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools">
+
+    <application
+        android:allowBackup="true"
+        android:dataExtractionRules="@xml/data_extraction_rules"
+        android:fullBackupContent="@xml/backup_rules"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.AndroidChart"
+        tools:targetApi="31">
+
+        <activity
+            android:name=".ui.MainActivity"
+            android:exported="true">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+
+        <activity android:name=".ui.linechart.LineChartActivity1" />
+        <activity android:name=".ui.linechart.MultiLineChartActivity" />
+        <activity android:name=".ui.linechart.LineChartActivity2" />
+        <activity android:name=".ui.linechart.InvertedLineChartActivity" />
+        <activity android:name=".ui.linechart.CubicLineChartActivity" />
+        <activity android:name=".ui.linechart.LineChartActivityColored" />
+        <activity android:name=".ui.linechart.PerformanceLineChart" />
+        <activity android:name=".ui.linechart.FilledLineActivity" />
+        <activity android:name=".ui.barchart.BarChartActivity" />
+        <activity android:name=".ui.barchart.AnotherBarActivity" />
+        <activity android:name=".ui.barchart.BarChartActivityMultiDataset" />
+        <activity android:name=".ui.barchart.HorizontalBarChartActivity" />
+        <activity android:name=".ui.barchart.StackedBarActivity" />
+        <activity android:name=".ui.barchart.BarChartPositiveNegative" />
+        <activity android:name=".ui.barchart.HorizontalBarNegativeChartActivity" />
+        <activity android:name=".ui.barchart.StackedBarActivityNegative" />
+        <activity android:name=".ui.barchart.BarChartActivitySinus" />
+        <activity android:name=".ui.piechart.PieChartActivity" />
+        <activity android:name=".ui.piechart.PiePolylineChartActivity" />
+        <activity android:name=".ui.piechart.HalfPieChartActivity" />
+        <activity android:name=".ui.otherchart.CombinedChartActivity" />
+        <activity android:name=".ui.otherchart.ScatterChartActivity" />
+        <activity android:name=".ui.otherchart.BubbleChartActivity" />
+        <activity android:name=".ui.otherchart.CandleStickChartActivity" />
+        <activity android:name=".ui.otherchart.RadarChartActivity" />
+        <activity android:name=".ui.scrollingchart.ListViewMultiChartActivity" />
+        <activity android:name=".ui.scrollingchart.SimpleChartDemo" />
+        <activity android:name=".ui.scrollingchart.ScrollViewActivity" />
+        <activity android:name=".ui.scrollingchart.ListViewBarChartActivity" />
+        <activity android:name=".ui.evenmorelinechart.DynamicalAddingActivity" />
+        <activity android:name=".ui.evenmorelinechart.RealtimeLineChartActivity" />
+        <activity android:name=".ui.evenmorelinechart.LineChartTime" />
+
+    </application>
+
+</manifest>
