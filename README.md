@@ -47,6 +47,13 @@
    + Candlestick
    + Radar chart
 
+## Change Log
+
+### [1.0.0] - 2024-01-15
+
++ Forked [MPAndroidChart](https://github.com/PhilJay/MPAndroidChart).
++ Solved the issue of running [MPAndroidChart](https://github.com/PhilJay/MPAndroidChart) with a latest version of Android Studio.
+
 ## Acknowledgement
 Android Chart was based on or inspired by these projects and so on:
 + [PhilJay/MPAndroidChart](https://github.com/PhilJay/MPAndroidChart)
