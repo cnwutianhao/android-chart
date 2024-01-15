@@ -3,49 +3,35 @@
 :zap: A powerful & easy to use chart library for Android :zap:
 
 ## Charts
-1. Line Charts
-   + Basic
-   + Multiple
-   + Dual axis
-   + Inverted axis
-   + Cubic
-   + Colorful
-   + Performance
-   + Filled
+1. [Line Charts](https://github.com/cnwutianhao/android-chart/tree/main/demo/src/main/java/com/tyhoo/android/chart/demo/ui/linechart)
+   ```
+   Basic、Multiple、Dual axis、Inverted axis、Cubic、Colorful、Performance、Filled
+   ```
 
-2. Bar Charts
-   + Basic
-   + Basic 2
-   + Multiple
-   + Horizontal
-   + Stacked
-   + Stacked 2
-   + Negative
-   + Negative horizontal
-   + Sine
+2. [Bar Charts](https://github.com/cnwutianhao/android-chart/tree/main/demo/src/main/java/com/tyhoo/android/chart/demo/ui/barchart)
+   ```
+   Basic、Basic 2、Multiple、Horizontal、Stacked、Stacked 2、Negative、Negative horizontal、Sine
+   ```
 
-3. Pie Charts
-   + Basic
-   + Value lines
-   + Half pie
+3. [Pie Charts](https://github.com/cnwutianhao/android-chart/tree/main/demo/src/main/java/com/tyhoo/android/chart/demo/ui/piechart)
+   ```
+   Basic、Value lines、Half pie
+   ```
 
-4. Scrolling Charts
-   + Multiple
-   + View pager
-   + Tall bar chart
-   + Many bar charts
+4. [Scrolling Charts](https://github.com/cnwutianhao/android-chart/tree/main/demo/src/main/java/com/tyhoo/android/chart/demo/ui/scrollingchart)
+   ```
+   Multiple、View pager、Tall bar chart、Many bar charts
+   ```
 
-5. Even More Line Charts
-   + Dynamic
-   + Realtime
-   + Hourly
+5. [Even More Line Charts](https://github.com/cnwutianhao/android-chart/tree/main/demo/src/main/java/com/tyhoo/android/chart/demo/ui/evenmorelinechart)
+   ```
+   Dynamic、Realtime、Hourly
+   ```
 
-6. Other Charts
-   + Combined chart
-   + Scatted plot
-   + Bubble chart
-   + Candlestick
-   + Radar chart
+6. [Other Charts](https://github.com/cnwutianhao/android-chart/tree/main/demo/src/main/java/com/tyhoo/android/chart/demo/ui/otherchart)
+   ```
+   Combined chart、Scatted plot、Bubble chart、Candlestick、Radar chart
+   ```
 
 ## Change Log
 
