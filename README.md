@@ -3,6 +3,7 @@
 :zap: A powerful & easy to use chart library for Android :zap:
 
 ## Charts
+
 1. [Line Charts](https://github.com/cnwutianhao/android-chart/tree/main/demo/src/main/java/com/tyhoo/android/chart/demo/ui/linechart)
    ```
    Basic、Multiple、Dual axis、Inverted axis、Cubic、Colorful、Performance、Filled
@@ -41,5 +42,10 @@
 + Solved the issue of running [MPAndroidChart](https://github.com/PhilJay/MPAndroidChart) with a latest version of Android Studio.
 
 ## Acknowledgement
+
 Android Chart was based on or inspired by these projects and so on:
 + [PhilJay/MPAndroidChart](https://github.com/PhilJay/MPAndroidChart)
+
+## Repo Activity
+
+![Repo Activity](https://repobeats.axiom.co/api/embed/2bc87c4570eb9726022a08b40ebf1b746af6624d.svg "Repobeats analytics image")
